@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contacts Separator</string>
+    <string name="app_description">Separates all your contacts on your phone. This is based on code by Bjarke Freund-Hansen from http://stackoverflow.com/a/7063235</string>
+    <string name="app_version">0.1.1</string>
+
+</resources>
